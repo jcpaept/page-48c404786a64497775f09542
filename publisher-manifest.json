@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4c8ce030e40b51f3bac79096",
+  "owner": "jcpaept",
+  "repo": "page-48c404786a64497775f09542",
+  "title": "免流(Jscloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "48c404786a64497775f09542",
+      "a": "免流(Jscloud)",
+      "b": "2027官方最新地址导航",
+      "entity": "免流(Jscloud)",
+      "brand": "免流(Jscloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2aa57b0eda09eaac777dbb28c11d0c309e09cd1ecb1ee7253563234810a4f2b1",
+      "content": {
+        "primary_entity": "免流(Jscloud)",
+        "keyword1": "免流(Jscloud)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，免流(Jscloud)提供基础版、旗舰版与团队版三档方案，月付从 ¥15 到 ¥85，按年付可省两个月费用。基础版含 100GB 流量与 3 台设备，旗舰版升级至 300GB 与 5 台设备并优化 IPLC 专线，团队版提供 1000GB 与 20 台设备支持。客户端按设备选择对应配置，订阅导入后即可开始使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需选套餐",
+          "AI_HERO_INTRO": "免流(Jscloud)面向需要跨设备使用网络加速的用户，提供清晰的套餐梯度与客户端配置指引。从单人到团队，流量与设备数逐级提升，年付方案进一步降低月均成本。",
+          "AI_VISUAL_TITLE": "免流订阅套餐速览",
+          "AI_HIGHLIGHT_1": "基础版满足 100GB 流量与 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线与 5 台设备",
+          "AI_HIGHLIGHT_3": "团队版覆盖 1000GB 与 20 台设备",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和线路偏好三个角度对比套餐，快速定位适合自己的方案。",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，一人多端或合租场景按实际在线设备数匹配。",
+          "AI_FEATURE_TITLE_2": "按流量定版本",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB 与 1000GB 三档流量，日常浏览与流媒体、游戏加速需求可对应旗舰版或团队版。",
+          "AI_FEATURE_TITLE_3": "年付更省月均",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，相比月付减少约两个月支出。",
+          "AI_PLANS_TITLE": "套餐价格与权益",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月。流量、设备数与线路权益逐级提升，可按使用人数与带宽需求对比选择。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "不同系统对应不同客户端，请在设备上安装适配的客户端并导入订阅后使用。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅导入，按下列步骤操作即可开始使用免流(Jscloud)。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版和团队版之间选定订阅方案。",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TEXT_2": "查看所用设备系统与客户端版本要求，确保能够正常导入订阅并连接节点。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "在对应客户端中依照文档导入订阅链接，保存后选择合适的线路节点即可使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐轻松开始",
+          "AI_CLOSING_TEXT": "对比三档套餐的设备与流量，选定后按客户端文档导入订阅即可使用免流(Jscloud)。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "套餐可以随时更换吗？",
+          "AI_FAQ_ANSWER_1": "可以在续费或新周期开始时选择其他版本，流量与设备数按新套餐提供，已使用部分不结转。",
+          "AI_FAQ_QUESTION_2": "同时在线设备数怎么计算？",
+          "AI_FAQ_ANSWER_2": "以同一时间保持连接的终端数量为准。基础版3台，旗舰版5台，团队版20台，超出后新设备可能无法连接。",
+          "AI_FAQ_QUESTION_3": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_3": "在客户端中选择从链接导入或扫描订阅地址，按客户端文档填写后保存，即可在节点列表中查看线路。",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_4": "月付按自然月结算，每月15元起；年付一次性支付150元起，分摊到十二个月使用。两种方式在流量和设备数上按所选版本提供相同权益。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版适合小型团队、多设备办公或需要定制路由的场景，提供20台设备在线和专属客户经理服务。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zhdzsm.cn",
+    "host": "zhdzsm.cn"
+  },
+  "file_hashes": {
+    "index.html": "2561d07a831ec3e2b52cd6d557894ea0b2d459b234e0d2d8cd679adb60f58f3a",
+    "sitemap.xml": "78f242bb0cad8be1648541fa25751e0fb3feb4b21ed20deaf99680b49b283aec",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8b4da406d1bcb067be8e75cfea68f8e1900d44b80f8306e5cdee926d23c94bac",
+    "robots.txt": "92fb84443ddd8ad947dc6c70a30937a8ecdd80a743974b778ccf3dbe22317146",
+    "0ffadf9a06a6af24278e5bae2b3d79e2.txt": "0becf5bea094740b0ab5eb0a3963b070123145fa20e64edb04f009ffbdb48fc1"
+  },
+  "revision": "d9a82e07125715c13e897f9ebb70259b7822dfdb2cdf2606e90c9522c3dd694b"
+}
